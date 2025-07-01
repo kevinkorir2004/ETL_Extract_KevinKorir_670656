@@ -3,3 +3,7 @@ __pycache__/
 *.log
 *.sqlite
 last_extraction.txt
+# Lab 5: Ignore loaded outputs
+*.db
+*.parquet
+loaded_data/
